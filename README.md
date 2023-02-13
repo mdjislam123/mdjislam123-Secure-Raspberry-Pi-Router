@@ -234,6 +234,9 @@ uci commit wireless
 wifi
 ```
 Now, we can actually add to our MufatVPN network and access to internet. Use our phone and connect to this wifi and password should be same as option key 'what ever you used'
-#### Boom our wifi is working. Now I have the working router. We can go anywhere, connect to any public network in OpenWRT and wifi works well. However, we are not secure. We are not protected. Our traffic is not encrypted. We are not going secure through VPN. So the next task for us is to config, we are going to set it up to where all of our traffic go over to the NordVPN. This is paid version of VPN. NordVPN is very good, paying for this is totally worth it. As I'm a college student I used my student discount. So before you purchase, look for if there any available discount for you. 
+
+# Our wifi is working. Now I have the working router. We can go anywhere, connect to any public network in OpenWRT and wifi works well. 
+
+# However, we are not secure. Our traffic is not encrypted. Before using it in public configure it with VPN. 
 
 
